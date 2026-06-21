@@ -6,10 +6,6 @@
 ## 📌 Project Overview
 This project transforms raw Maven Analytics dataset into a comprehensive, interactive Power BI dashboard. It tracks Airbnb's global market share, property growth trends, user review frequency, and seasonal rating variations across 10 major cities. 
 
-### 📸 Dashboard Screenshots
-*`[Insert your landing page screenshot here]`*
-*`[Insert your main dashboard/insights screenshot here]`*
-
 ## 🚀 Key Insights Discovered
 * **Market Dominance:** Paris, New York, and Sydney command 48% of the total market share, with Paris alone holding 23%.
 * **Ratings Reality:** Mexico City and Rio de Janeiro lead in overall guest satisfaction, while cleanliness and value consistently score the lowest across all markets.
@@ -23,3 +19,12 @@ This project transforms raw Maven Analytics dataset into a comprehensive, intera
 
 ## 👨‍💻 Author
 **Shubham Saxena** 
+
+### 📸 Dashboard Screenshots
+![main](ss1.png) 
+
+![main](ss2.png)
+
+![main](ss3.png)
+
+![main](ss4.png)
